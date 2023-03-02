@@ -3,3 +3,7 @@
     height: 100vh;
     background-color: #57B8FB;
 }
+
+.members > img{
+    height: 10rem;
+}
