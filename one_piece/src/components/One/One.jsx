@@ -1,11 +1,16 @@
 import React from 'react'
-import Background from '../../Images/background.png'
+import './One.css'
+
+import Logo from '../../Images/logo.png'
 
 const One = () => {
   return (
     <>
         <section className = "background">
-            <img src = {Background} alt = "background" />
+          
+          <div className = 'logo'>
+           
+          </div>
         </section>
     </>
   )

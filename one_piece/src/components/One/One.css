@@ -1,5 +1,11 @@
-img
+.background 
 {
+    background-image: url('../../Images/background.png');
+    position: relative;
     height: 100vh;
-    max-width: auto;
+    width: 100%;
 }
+
+
+
+    

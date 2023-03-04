@@ -14,7 +14,7 @@ import React from 'react'
 
 function Crew() {
   return (
-    <div className='crew'>
+    <section className='crew'>
 
         <div className='text'>
             <div className='text-1'>
@@ -39,7 +39,7 @@ function Crew() {
             <img className="nami--img" src={nami} alt = "brook"/>
             <img className="robin--img" src={robin} alt = "brook"/>
         </div>
-    </div>
+    </section>
   )
 }
 
