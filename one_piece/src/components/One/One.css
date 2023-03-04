@@ -1,9 +1,20 @@
-.background 
+.background img 
 {
-    background-image: url('../../Images/background.png');
     position: relative;
     height: 100vh;
     width: 100%;
+}
+
+.logo{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.logo img{
+    height: 250px;
 }
 
 
