@@ -11,13 +11,9 @@ const One = () => {
           <img src={background}/>
           
           <div className = 'logo'>
-            <img src={logo}/>
-          </div>
-          <div className = "one">
             <h1>ONE</h1>
-          </div>
-          <div className = "piece">
-            <h1>PIECE</h1>
+            <img src={logo}/>
+            <h2>PIECE</h2>
           </div>
         </section>
     </>
