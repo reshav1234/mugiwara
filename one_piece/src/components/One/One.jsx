@@ -13,6 +13,12 @@ const One = () => {
           <div className = 'logo'>
             <img src={logo}/>
           </div>
+          <div className = "one">
+            <h1>ONE</h1>
+          </div>
+          <div className = "piece">
+            <h1>PIECE</h1>
+          </div>
         </section>
     </>
   )

@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100&display=swap');
 .background img 
 {
     position: relative;
@@ -17,6 +18,35 @@
     height: 250px;
 }
 
+.one 
+{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+    vertical-align: top;
+    width: 60%;
+}
+.one h1 
+{
+    font-size: 70px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold !important;
+}
 
+.piece 
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: right;
+    vertical-align: top;
+    width: 70%;
+    float: left;
+    font-size: 70px;
+}
 
+   
     
