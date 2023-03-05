@@ -36,6 +36,58 @@
     height: 100px;
 }
 
+.cloud 
+{
+    position: absolute;
+    top: 60%;
+    left: 14%;
+    transform: translate(-50%, -50%);
+}
+
+.cloud img 
+{
+    height:200px;
+}
+
+.skypie 
+{
+    position: absolute;
+    top: 80%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+}
+.skypie img 
+{
+    height:100px;
+}
+
+.hill 
+{
+    position: absolute;
+    top: 88%;
+    left: 48%;
+    transform: translate(-50%, -50%);
+}
+
+.hill img 
+{
+    height: 30px;
+}
+
+.island 
+{
+    position: absolute;
+    top: 87%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+}
+
+.island img 
+{
+    height: 50px;
+}
+
+
 
    
     
