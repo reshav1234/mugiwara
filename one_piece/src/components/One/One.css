@@ -36,7 +36,7 @@
     height: 100px;
 }
 
-.cloud 
+.cloud_01
 {
     position: absolute;
     top: 60%;
@@ -44,7 +44,20 @@
     transform: translate(-50%, -50%);
 }
 
-.cloud img 
+.cloud_01 img 
+{
+    height:200px;
+}
+
+.cloud_02
+{
+    position: absolute;
+    top: 60%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+}
+
+.cloud_02 img 
 {
     height:200px;
 }
@@ -85,6 +98,19 @@
 .island img 
 {
     height: 50px;
+}
+
+.one_piece
+{
+    position: absolute;
+    top: 30%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+}
+
+.one_piece img 
+{
+    height: 80px;
 }
 
 

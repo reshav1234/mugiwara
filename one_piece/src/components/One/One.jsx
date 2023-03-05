@@ -7,6 +7,7 @@ import cloud from '../../Images/cloud.png'
 import skypie from "../../Images/skypie.png"
 import island from "../../Images/island.png"
 import hill from '../../Images/hill.png'
+import Onepiece from '../../Images/one_piece.png'
 
 
 const One = () => {
@@ -24,8 +25,11 @@ const One = () => {
           <div className='sunny'>
             <img src = {sunny}/>
           </div>
-          <div className = "cloud">
+          <div className = "cloud_01">
             <img src = {cloud}/>
+          </div>
+          <div className = "cloud_02">
+            <img src = {cloud} />
           </div>
           <div className = "skypie">
             <img src = {skypie}/>
@@ -35,6 +39,9 @@ const One = () => {
           </div>
           <div className = "island">
             <img src = {island}/>
+          </div>
+          <div className = "one_piece">
+            <img src = {Onepiece} />
           </div>
 
         </section>
