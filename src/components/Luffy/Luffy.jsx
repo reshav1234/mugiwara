@@ -12,19 +12,14 @@ const Luffy = () => {
   return (
     <>
         <section className="luffy">
-
-            <div className = "wood">
-                <img src = {wood} alt = "wood" />
-            </div>
             <div className = "member">
-                <img src = {member} alt = "member" />
+                <img className='image' src={luffy} />
+                <h2 className='description'>MONKEY D LUFFY</h2>
             </div>
-            <div className = "mugi">
-                <img src = {luffy} alt = "mugiwara" />
-            </div>
-            <div className = "description">
-                <h1>Monkey D Luffy</h1>
-            </div>
+            <img className="wood" src = {wood} alt = "wood" />
+        </section>
+        <section className='zoro'>
+            <h1>HELLOS</h1>
         </section>
     </>
   )
