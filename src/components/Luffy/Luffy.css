@@ -1,0 +1,29 @@
+.luffy 
+{
+    height: 100vh;
+    background-color: #8B0000;
+
+}
+
+.wood img
+{
+    width: 20%;
+    position: relative;
+    padding-left: 75%;
+}
+
+.member img 
+{
+    width: 20%;
+    padding-left: 75%;
+    position:absolute;
+    top:100rem;
+}
+
+.mugi img 
+{
+    position:absolute;
+    height:200px;
+    left:80px; 
+    top:100rem;
+}
