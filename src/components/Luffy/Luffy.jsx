@@ -13,10 +13,13 @@ const Luffy = () => {
     <>
         <section className="luffy">
             <div className = "member">
-                <h1 className='image'>IMAGE GOES HERE!!</h1>
-                <h2 className='description'>DESCRIPTION GOES HERE!!</h2>
+                <img className='image' src={luffy} />
+                <h2 className='description'>MONKEY D LUFFY</h2>
             </div>
             <img className="wood" src = {wood} alt = "wood" />
+        </section>
+        <section className='zoro'>
+            <h1>HELLOS</h1>
         </section>
     </>
   )
