@@ -1,29 +1,27 @@
-.luffy 
-{
+.luffy{
     height: 100vh;
-    background-color: #8B0000;
-
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
 }
 
-.wood img
-{
-    width: 20%;
-    position: relative;
-    padding-left: 75%;
+.wood{
+    height: 100vh;
 }
 
-.member img 
-{
-    width: 20%;
-    padding-left: 75%;
-    position:absolute;
-    top:100rem;
+.member{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border: 3px solid black;
+    gap: 5rem;
 }
 
-.mugi img 
-{
-    position:absolute;
-    height:200px;
-    left:80px; 
-    top:100rem;
+.image{
+    border: 3px solid green;
+}
+
+.description{
+    border: 3px solid blue;
 }
